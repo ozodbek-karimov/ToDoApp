@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="no_data">No data</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort by</string>
+    <string name="priority_high">Priority High</string>
+    <string name="priority_medium">Priority Medium</string>
+    <string name="priority_low">Priority Low</string>
+    <string name="delete_all">Delete All</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="my_title">My Title</string>
+    <string name="some_random_description_for_testing">Some random description for testingdescription for testingdescription for testingdescription for testingdescription for testingdescription for testingdescription for testingdescription for testing !</string>
+    <string name="medium">Medium</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure_you_want_to_delete_item">Are you sure you want to delete item ?</string>
+    <string name="no">No</string>
+    <string name="delete_item">Delete item</string>
+    <string name="dialog_text">Are you sure you want to delete all data ?</string>
+    <string name="delete_dialog_title">Delete "%s"</string>
+    <string name="delete_dialog_message">Are you sure you want to delete "%s"?</string>
+    <string name="_17_aprel_2023">17 Aprel, 2023</string>
+
+
+    <string-array name="priorities">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>

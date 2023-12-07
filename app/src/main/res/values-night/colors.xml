@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#6200EA</color>
+    <color name="colorPrimaryDark">#5502C8</color>
+    <color name="colorAccent">#9D46FF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="lightGray">#F9F9F9</color>
+    <color name="mediumGray">#D1D1D1</color>
+    <color name="lightMediumGray">#80D1D1D1</color>
+    <color name="darkGray">#4B4B4B</color>
+    <color name="dark">#313C44</color>
+    <color name="darker">#151B20</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF4646</color>
+    <color name="yellow">#FFC114</color>
+    <color name="green">#00C980</color>
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- DARK THEME-->
+
+    <color name="backgroundColor">@color/dark</color>
+    <color name="custom_input_color">@color/dark</color>
+    <color name="no_data_color">@color/lightGray</color>
+    <color name="no_data_text_color">@color/lightGray</color>
+    <color name="snackbar_color">@color/black</color>
+    <color name="snackbar_text_color">@color/lightGray</color>
+    <color name="floating_button_color">@color/yellow</color>
+    <color name="floating_button_icon_color">@color/darker</color>
+
+
+
+    // Custom CardView Style
+    <color name="strokeColor">@color/mediumGray</color>
+    <color name="cardBackgroundColor">@color/darker</color>
+    <color name="cardBackgroundLightColor">#106200EA</color>
+    <color name="titleColor">@color/mediumGray</color>
+    <color name="descriptionColor">@color/mediumGray</color>
+
+
+    <color name="statusBarColor">@color/darker</color>
+    <color name="contextualStatusBarColor">@color/black</color>
+    <color name="contextualActionBarColor">@color/darker</color>
+    <color name="actionBarBackgroundColor">@color/darker</color>
+
+</resources>
