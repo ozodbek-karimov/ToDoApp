@@ -165,8 +165,8 @@ class ListFragment : Fragment(R.layout.fragment_list), SearchView.OnQueryTextLis
     private fun confirmDeleteAllRemoval() {
 
         buildDialog(
-            R.string.delete_all.toString(),
-            R.string.dialog_text.toString(),
+            getString(R.string.delete_all),
+            getString(R.string.dialog_text),
             positiveButtonAction = {
                 mToDoViewModel.deleteAll()
                 mSharedViewModel.showSnackbar(
